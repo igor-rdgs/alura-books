@@ -1,2 +1,1 @@
-# AluraBooks
-Project from Alura's Front-End school to practice responsiveness in HTML and CSS.
+Link para visualização do projeto: https://igor-rdgs.github.io/AluraBooks/
